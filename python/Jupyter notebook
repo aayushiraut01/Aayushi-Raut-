@@ -1,0 +1,9 @@
+variable 
+data type: integer, float, string , boolean , complex, none
+data structure: list, tuple, set , dict 
+OPERATORS
+arithmatic: add, (+), sub(-), mult(*),div(/), flor division(//), module(%),power(*)
+comparison: <, >, ==, <=, >=, !=, 
+logical: and, or, not
+TYPE CASTING 
+Integer= string, integer= float, string=integer, float= integer, boolean (true/ false)
