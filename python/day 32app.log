@@ -1,0 +1,28 @@
+2026-08-13 19:53:46,771 - INFO - loop started
+2026-08-13 19:53:46,772 - INFO - variable value 1
+2026-08-13 19:53:46,774 - INFO - variable value 2
+2026-08-13 19:53:46,775 - INFO - variable value 3
+2026-08-13 19:53:46,776 - INFO - variable value 4
+2026-08-13 19:53:46,777 - INFO - variable value 5
+2026-08-13 19:54:25,357 - INFO - loop started
+2026-08-13 19:54:25,358 - INFO - variable value1
+2026-08-13 19:54:25,359 - INFO - variable value2
+2026-08-13 19:54:25,360 - INFO - variable value3
+2026-08-13 19:54:25,361 - INFO - variable value4
+2026-08-13 19:54:25,362 - INFO - variable value5
+INFO:root:Excellent marks
+INFO:root:marks enetered: 93
+INFO:root:marks enetered: 95
+INFO:root:Excellent marks
+INFO:root:marks enetered: 96
+INFO:root:Excellent marks
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 704d7fe7-699a-471c-83c6-fd80fecb86d7
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 5dfe6b01-f62c-43b7-94a4-080e3b610c29
+INFO:root:TEST MESSAGE
+WARNING:root:TEST WARNING
+INFO:root:TEST MESSAGE
+WARNING:root:TEST WARNING
+INFO:root:marks entered: 99
+INFO:root:Excellent marks
